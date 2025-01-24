@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tim.
-- 👀 I’m decent with VBA and spreadsheets.
-- 🌱 I’m currently learning HTML/CSS/JS so I can get better at using Apps Scripts in my google sheets work. I'm also learning Python.
+- 👀 I’m decent with VBA, spreadsheets and python. I do geospatial data work.
+- 🌱 I’m currently learning HTML/CSS/JS so I can work towards full stack development.
+- I'm also learning Postgres/PostGIS, shell scripting, GDAL.
   
 <!---
 tim-c-1/tim-c-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
